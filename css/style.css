@@ -18,6 +18,7 @@ body {
 
 button {
   background-color: purple;
+  border-radius: 5px;
   color: #fff;
   border: 1px purple solid;
   font-size: 14px;
